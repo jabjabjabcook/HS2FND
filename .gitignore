@@ -1,0 +1,9 @@
+# Visual Studio ビルドフォルダー
+bin
+obj
+
+# テストデータ
+testdata
+
+# ログファイル
+log
